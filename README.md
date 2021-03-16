@@ -1,3 +1,3 @@
 # john42sp.github.io
-Github User Web page built on Gitpages
+Repository opened especifically for  Github User Web page development on Gitpages.  
 Work in progress.
